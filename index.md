@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## Páginas de GitHub de Osvoy
+
+[Página de MirandaApp www.osvoy.com](http://www.osvoy.com)
+
+Las tiendas de Windows Phone y Android, retiraron la aplicación, por lo que ahora mismo no es instalable.
+A ver si creo una nueva para Android
+
+
+
 
 You can use the [editor on GitHub](https://github.com/osvoy/osvoy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
